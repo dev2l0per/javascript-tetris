@@ -1,5 +1,7 @@
 # Tetris on Ainize!
 
+[![Run on Ainize](https://ainize.herokuapp.com/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/dev2l0per/javascript-tetris)
+
 ### Step.1 Fork javascript-tetris
 
 Fork this repo and check your forked repo
